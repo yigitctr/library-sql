@@ -1,0 +1,45 @@
+Proje Hakkında Önemli Noktalar Aşağıdadır.
+
+1) Soyut. 🧾
+
+Kütüphane yönetim sistemi, kütüphanenin tüm günlük işlerini sürdürmek için bilgisayarlı bir sistem geliştirmeyi amaçlayan bir projedir. Bu proje, mevcut sistemin öğrenci raporları ve kitap sayısı raporları oluşturma olanağı sunmaması gibi normal kütüphane yönetim sistemlerinde genellikle bulunmayan özelliklere sahiptir; önerilen sistem bunu sağlar. Ayrıca, iade kitap teslim tarihi geçen belirli bir öğrenciye e-posta gönderme olanağı da vardır. Ayrıca projemizi mevcut Kütüphane sistemlerinden ayıran farklı çizelgeler de üretiyoruz. Genel olarak bu projemiz, kullanıcıların ve kütüphanecilerin kütüphaneyi mümkün olan en iyi şekilde yönetmelerine ve ayrıca insan çabalarını azaltmalarına yardımcı olmak için geliştirilmektedir.
+
+2) Giriş. 📐
+
+Kütüphane Yönetim Sistemi projesi, esas olarak yeni üyeler, yeni kitaplar ekleme ve yeni bilgileri güncelleme, kitap arama ve ödünç alıp iade edecek üyeler gibi kütüphanedeki temel işlemlere odaklanan C-sharp'ta geliştirilmiştir. Sürekli artan bilgi deniziyle, kütüphanenin bu modern işlevi manuel olarak ele alınması çok karmaşık ve sıkıcı hale geliyor. Kütüphaneci, zamanının çoğunu kütüphanenin bu tür işlevlerini ele almaya ayırmak zorunda. Bu nedenle fizibilite çalışmasını yürüttükten sonra manuel Kütüphane yönetim sistemini bilgisayarlaştırmaya karar verdik. Kullanıcı dostu bir arayüz sağlayacak projemizi yapmak için elimizden gelenin en iyisini yaptık
+
+3) Açıklama. 🙌
+
+Bu proje, bu Kütüphane Yönetim Sisteminin yeni üyeler, yeni kitaplar ekleme ve yeni bilgileri güncelleme, kitapları veya ödünç almak veya iade etmek isteyen üyeleri arama gibi çeşitli işlevleri gerçekleştirebildiği müşteri gereksinimlerini karşılar. Bu proje ayrıca, kitap iade etme son tarihi geçmiş olan öğrencilere e-posta gönderme gereksinimini de karşılayabilir. Ayrıca anında rapor için ihraç çizelgesi ve eşik çizelgesi de gösterebilir. Kullanıcı gereksinimine göre, bu sisteme yeni bir kitap eklediğimizde sistem kayıtlı öğrencilere e-posta göndermelidir.
+
+4) Hedefler ⚡.
+
+InsertionÖğrenci verilerinin, kitap verilerinin ve belirli bir kişi tarafından verilen veya iade edilen kitap kayıtlarının veritabanına tam olarak girilmesi.
+
+Extraction: Öğrenci verilerinin, kitap verilerinin ve belirli bir kişi tarafından/kişilerce veri tabanından verilen veya iade edilen kitap kayıtlarının tamamının çıkarılması.
+
+Keep Record: Ödünç alınan veya verilen kitapların listesini, ceza kayıtlarını ve öğrenci ve kitap bilgilerinin kayıtlarını tutmak.
+
+Searching: Arama Tesisi sistemi, Veritabanından kitap, üye ve diğer arama türlerini arayın.
+
+Charts Creation: Bu işlevsellik, kullanıcının (yönetici) anında rapor oluşturmak için ihraç grafiği ve eşik grafiği oluşturmasını sağlar.
+
+Sending EmailKayıtlı Öğrencilere: Yeni bir kitap eklendiğinde veya kitap iade tarihi geçtiğinde öğrencilere e-posta gönderilmesi kullanıcı gereksinimini karşılamak.
+
+5) Kapsam 🧿.
+
+Otomasyon yoluyla üretkenliklerini artırarak kaynakları verimli bir şekilde kullanmak. Bu tesisin gelecekteki kapsamı, öğretmenler tarafından çevrimiçi dersler, video eğitimleri ve çevrimiçi ödev gönderme olanağı gibi birçok özelliğin eklenebileceği, öğrencilerin mühendisliğin çeşitli konularını tartışabilecekleri bir grup sohbeti özelliğinin bu projeye eklenebileceği ve böylece daha etkileşimli, daha kullanıcı dostu ve her kullanıcının ihtiyacını mümkün olan en iyi şekilde karşılayan bir proje haline getirilebileceğidir. Bu uygulamayı kullanabileceğimiz farklı alanlar şunlardır.
+
+Herhangi bir eğitim kurumu, yazar, mevcut kitapların içeriği hakkında bilgi sağlamak amacıyla bundan yararlanabilir.
+Ofislerde kullanılabilir ve ihtiyaca göre kolaylıkla tadilat yapılabilir.
+
+6) Araçlar ve Teknoloji 🎃.
+
+1       Operating System: Windows 11
+2	Language: C-sharp
+3	IDE: Net-Beans
+4	Database Management System: MySQL
+5	Software: Visual Studio
+6	RAM: 4 GB Or More
+7	Hard Disk: 250 GB Or More
+8	Processor: Intel Core Processor Or More
